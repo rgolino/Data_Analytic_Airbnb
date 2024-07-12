@@ -12,9 +12,9 @@
 
 Meu objetivo com esse projeto além de demonstrar minha capacidade de análise de dados, visa apresentar um mapeamento dos imóveis disponíes na cidade do Porto em Portugal que o  <img alt="Analisando Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg">  disponibiliza para locação.
 Como poderá constatar a cidade do [Porto](https://pt.wikipedia.org/wiki/Porto), é conhecida mundialmente pelo seu vinho, pelas suas pontes e arquitetura contemporânea e antiga, o seu centro histórico, classificado como Património Mundial pela UNESCO, pela qualidade dos seus restaurantes e pela sua gastronomia, um excelente local para ótimos passeios e férias em família.
+Acesse meu projeto e veja análises de muita relevância.
 
-
-[Link para o projeto completo](https://medium.com/@renatogolino)
+[Link para o projeto completo](https://github.com/rgolino/Data_Analytic_Airbnb/blob/main/Analisando_os_Dados_do_Airbnb_(Porto_Portugal).ipynb)
 
 **Links para me acharem:**
 * [Artigo sobre Proteção de Dados](https://www.linkedin.com/pulse/anonimiza%25C3%25A7%25C3%25A3o-de-dados-preservando-privacidade-sem-perder-golino-7y5uf/?trackingId=ZQkapQMDS5%2BtP%2Bb6Hd6%2Bvw%3D%3D)
